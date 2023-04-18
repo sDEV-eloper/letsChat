@@ -4,12 +4,9 @@ Lets Chat is a real-time messaging application that allows users to communicate 
 Project Link: https://velvety-haupia-f41530.netlify.app/
 
 ## Features
-
+- Login/Register
 - Direct messaging
-- Group chats
-- File sharing
-- User profiles
-- Notifications
+- Seaching User Profiles
 
 ## Getting Started
 
